@@ -1,34 +1,21 @@
+// .prettierrc.mjs
 /** @type {import("prettier").Config} */
 export default {
-  plugins: ["prettier-plugin-astro"],
+  plugins: ['prettier-plugin-astro'],
   overrides: [
     {
-      files: "*.astro",
+      files: '*.astro',
       options: {
-        parser: "astro",
+        parser: 'astro',
       },
     },
   ],
+  // Add these options:
+  semi: true,
+  singleQuote: true,
+  tabWidth: 2,
+  trailingComma: 'es5',
+  printWidth: 100,
+  // Astro-specific option
+  astroAllowShorthand: true,
 };
-
-// .prettierrc.mjs
-/** @type {import("prettier").Config} */
-// export default {
-//     plugins: ['prettier-plugin-astro'],
-//     overrides: [
-//         {
-//             files: '*.astro',
-//             options: {
-//                 parser: 'astro',
-//             },
-//         },
-//     ],
-//     // Add these options:
-//     semi: true,
-//     singleQuote: true,
-//     tabWidth: 2,
-//     trailingComma: 'es5',
-//     printWidth: 100,
-//     // Astro-specific option
-//     astroAllowShorthand: true,
-// };
