@@ -39,7 +39,7 @@ export type SiteConfig = {
 
 const siteConfig: SiteConfig = {
     title: 'Abbas Hayder',
-    subtitle: 'Product Developer | GNU/Linux Enthusist | Avid Runner',
+    subtitle: 'Product Developer | GNU/Linux Enthusiast | Avid Runner',
     description: 'Blog and Portfolio by Abbas Hayder',
     // image: {
     //     src: '/dante-preview.jpg',
