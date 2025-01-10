@@ -5,12 +5,19 @@ import tailwind from '@astrojs/tailwind';
 
 // https://astro.build/config
 export default defineConfig({
-    site: 'https://example.com',
-    integrations: [
-        mdx(),
-        sitemap(),
-        tailwind({
-            applyBaseStyles: false
-        })
-    ]
+  i18n: {
+    locales: ['en', 'ar', 'sv'],
+    defaultLocale: 'ar',
+    routing: {
+      prefixDefaultLocale: false
+    }
+  },
+  site: 'https://abbashayder.com',
+  integrations: [
+    mdx(),
+    sitemap(),
+    tailwind({
+      applyBaseStyles: false
+    })
+  ]
 });
