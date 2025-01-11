@@ -9,6 +9,7 @@
         --color-bg-muted: 234 233 225; /* #EAE9E1 */
         --color-border-main: 23 23 23; /* #171717 */
     }
+
     html.dark {
         --color-text-main: 242 241 236; /* #F2F1EC */
         --color-bg-main: 23 23 23; /* #171717 */
@@ -16,7 +17,13 @@
         --color-border-main: 242 241 236; /* #F2F1EC */
     }
 
+    [lang='en'] {
+      direction: ltr;
+      unicode-bidi: embed;
+    }
+
     /* Cyan */
+
     /*
     :root {
         --color-text-main: 22 42 43;
@@ -33,6 +40,7 @@
     */
 
     /* Green */
+
     /*
     :root {
         --color-text-main: 58 66 56;
