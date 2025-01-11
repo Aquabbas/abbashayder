@@ -48,8 +48,7 @@ const siteConfig: SiteConfig = {
   headerNavLinks: [
     {
       text: 'Home',
-      // href: '/en/'
-      href: `{ getRelativeLocaleUrl('en', '/en') }`
+      href: '/en'
     },
     {
       text: 'Projects',

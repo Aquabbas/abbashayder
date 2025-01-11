@@ -38,7 +38,7 @@ export type SiteConfig = {
 };
 
 const siteConfig: SiteConfig = {
-    title: 'Abbas Hayder [main]',
+    title: 'Abbas Hayder',
     subtitle: 'Product Developer | GNU/Linux Enthusiast | Avid Runner',
     description: 'Blog and Portfolio by Abbas Hayder',
     image: {
