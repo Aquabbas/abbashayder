@@ -4,7 +4,7 @@ type Props = { date: Date };
 const { date } = Astro.props;
 ---
 
-<!-- <time datetime={date.toISOString()}> --><!--     { --><!--         date.toLocaleDateString('en-us', { --><!--         date.toLocaleDateString('ar-iq', { --><!--         date.toLocaleDateString('sv-se', { -->
+<!-- 'en-us', 'ar-iq', 'sv-se' -->
 <time datetime={date.toISOString()}>
     {
         date.toLocaleDateString('en-us', {
