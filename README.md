@@ -81,3 +81,11 @@ Licensed under the
 license.
 
 ---
+
+## Attribution
+
+Many thanks to [Asta Bankauske](https://github.com/astab) and [Thomas Lockney](https://github.com/tlockney)
+for providing me with this amazing
+[Astro.js `Dante` Theme](https://github.com/JustGoodUI/dante-astro-theme)
+
+---
