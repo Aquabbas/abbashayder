@@ -7,7 +7,7 @@ seo:
 
 **Last updated on January 11, 2025**
 
-The following Terms of Service (Terms) govern your access to and use of [abbashayder](https://abbashayder.com) and any related services provided by [abbashayder](https://abbashayder.com). Please read these Terms carefully before using the Website.
+The following Terms of Service (Terms) govern your access to and use of _[abbashayder](https://abbashayder.com)_ and any related services provided by _[abbashayder](https://abbashayder.com)_. Please read these Terms carefully before using the Website.
 
 **1. Acceptance of Terms**
 

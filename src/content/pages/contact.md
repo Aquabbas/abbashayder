@@ -5,9 +5,9 @@ seo:
   description: Get in touch through email or social media! Let me know how I can help.
 ---
 
-Thank you for reaching out! Whether you have a question, a suggestion, or just want
-to share your thoughts, please let me know. Feel free to get in touch through any
-of the methods below:
+I am currently not actively looking for new opportunities, but my inbox is always
+open. Whether you have a question or just want to say hi, I'll try my best to get
+back to you!
 
 [GitHub](https://github.com/Aquabbas)
 

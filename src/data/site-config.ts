@@ -41,10 +41,10 @@ const siteConfig: SiteConfig = {
     title: 'Abbas Hayder',
     subtitle: 'Product Developer | GNU/Linux Enthusiast | Avid Runner',
     description: 'Blog and Portfolio by Abbas Hayder',
-    image: {
-        src: '',
-        alt: 'Dante - Astro.js and Tailwind CSS theme'
-    },
+    // image: {
+    //     src: '/dante-preview.jpg',
+    //     alt: 'Dante - Astro.js and Tailwind CSS theme'
+    // },
     headerNavLinks: [
         {
             text: 'Home',
@@ -85,11 +85,11 @@ const siteConfig: SiteConfig = {
     ],
     hero: {
         title: '',
-        text: "I'm **Abbas Hayder**, a software engineer specializing in FinTech and PropTech. Currently, I support and help maintain a Property Management SaaS platform at [Odevo](https://odevo.com/). I enjoy the process of understanding problems, requirements, and complex systems, and figuring out solutions on my own. I also enjoy collaborating with diverse teams with multidisciplinary backgrounds and always find something I can learn from others. In my free time, I enjoy learning new things, whether it's a CLI tool or a design pattern",
-        image: {
-            src: '',
-            alt: 'A person sitting at a desk in front of a computer'
-        },
+        text: "Hello/ᚺᛖᛚᛚᛟ/مرحبًا, \n\nThank you for visiting my website! I'm a software engineer specializing in FinTech and PropTech. Currently supporting and maintaining a Property Management SaaS platform at [Odevo](https://odevo.com/). \n\nIn my free time, I enjoy learning about different tools and systems, as well as [building my own](). This site is a dedicated space to publish my work on technology, business, economics, languages and the world. I hope you find some use of my material :)",
+        // image: {
+        //     src: '/hero.jpeg',
+        //     alt: 'A person sitting at a desk in front of a computer'
+        // },
         actions: [
             {
                 text: 'Get in Touch',

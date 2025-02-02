@@ -2,8 +2,10 @@
 title: Title
 excerpt: Excerpt.
 publishDate: 'Aug 5 2023'
+isFeatured: false
 tags:
   - Guide
+  - Web
 seo:
   image:
     src: '/post-1.jpg'

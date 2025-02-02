@@ -1,20 +1,20 @@
 ---
 // Language Agnostic Files
-import { getCollection } from 'astro:content'; // DONE!!!
+import { getCollection } from 'astro:content';
 // Contains Language Specific Files
-import BaseLayout from '../layouts/BaseLayout.astro'; // DONE!!!
+import BaseLayout from '../layouts/BaseLayout.astro';
 // Language Agnostic Files
-import Button from '../components/Button.astro'; // DONE!!!
+import Button from '../components/Button.astro';
 // Contains Language Specific Files
-import Hero from '../components/Hero.astro'; // DONE!!!
+import Hero from '../components/Hero.astro';
 // Contains Language Specific Files
-import PostPreview from '../components/PostPreview.astro'; // DONE!!!
+import PostPreview from '../components/PostPreview.astro';
 // Language Agnostic Files
-import ProjectPreview from '../components/ProjectPreview.astro'; // DONE!!!
+import ProjectPreview from '../components/ProjectPreview.astro';
 // Contains Language Specific Files
-import siteConfig from '../data/site-config'; // DONE!!!
+import siteConfig from '../data/site-config';
 // Language Agnostic Files
-import { sortItemsByDateDesc } from '../utils/data-utils'; // DONE!!!
+import { sortItemsByDateDesc } from '../utils/data-utils';
 
 const posts = (await getCollection('blog')).sort(sortItemsByDateDesc);
 const featuredPosts = posts.filter(({ data }) => data.isFeatured);
