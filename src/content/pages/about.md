@@ -19,7 +19,7 @@ from friends in university.
 
 As a kid, I used to hang out with my grandparents on their farm, which influenced
 my love for nature immensely. Besides nature, I love running, and gymnastic rings.
-I find joy in working with tools like [Neovim](https://neovim.io), and I'm really
+I find joy in working with tools like [NeoVim](https://neovim.io), and I'm really
 interested in exploring and learning about [GNU](https://www.gnu.org/home.en.html)/
 [Linux](https://www.linux.org/pages/download), servers, and other nerdy stuff.
 
@@ -32,7 +32,7 @@ interested in exploring and learning about [GNU](https://www.gnu.org/home.en.htm
 ## Learning Journey
 
 - **2024**:
-  - [x] learned to use Neovim as my [main personal integrated environment]()
+  - [x] learned to use NeoVim as my [main personal integrated environment]()
   - [x] Transitioned to GNU/Linux as my [main operating system]()
   - [x] Focused on [product development for property managers](https://odevo.com)
 - This year (**2025**):

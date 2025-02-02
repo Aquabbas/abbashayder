@@ -1,7 +1,7 @@
 ---
 title: You are not paid to write code - Part 1
-excerpt: One of the most confusing things I've heard last year from was from one of the main NeoVim maintainers TJ Devries which was something along the lines of "We software engineers/developers are really not paid to write software. We are paid to solve problems, real ones or perceived".
-publishDate: 'Feb 2 2025'
+excerpt: One of the most confusing things I've heard last year from was from one of the main NeoVim maintainers TJ Devries which was something along the lines of "We software engineers/developers are not really paid to write software. We are paid to solve problems, real ones or perceived".
+publishDate: Feb 2 2025
 isFeatured: true
 tags:
   - Career
@@ -9,7 +9,7 @@ tags:
   - Skills
 seo:
   image:
-    src: '/post-1.jpg'
+    src: /post-1.jpg
     alt: Tigger staring at a computer
 ---
 
@@ -33,7 +33,7 @@ In theory, as writing production software becomes more accessible, the value of 
 
 For now let's list some examples of soft skills out of the top of head that could be of value:
 
-1. **Energy**: Believe it or not, we are emphatic creatures and are immensely affected by the energy of others. Have you ever met a person and felt like shit afterwards? Have you met a person and you just felt a ease? Maybe even energized and you just wanna hang out around them because you felt so good. It goes almost without saying that what we say, how we say it. How we're feeling that day. How we carry ourselves. How we take care of ourselves (physically, mentally, spiritually) affects the energy of people around us. These small interactions add up and they have immense effects on individuals, teams, and the whole organizations. Have you ever been at a "toxic" environment. That's energy for ya. You get it.
+1. **Energy**: Believe it or not, we are empathetic creatures and are immensely affected by the energy of others. Have you ever met a person and felt like crap afterwards? Have you met a person and you just felt a ease? Maybe even energized and you just wanna hang out around them because you felt so good. It goes almost without saying that what we say, how we say it. How we're feeling that day. How we carry ourselves. How we take care of ourselves (physically, mentally, spiritually) affects the energy of people around us. These small interactions add up and they have immense effects on individuals, teams, and the whole organizations. Have you ever been at a "toxic" environment. That's energy for ya. You get it.
 2. **Curiosity**: Do you know how your company makes money? Why do people buy your product? What is irritating your users/colleagues? What value your users are getting? What about your product? How does it work? Why does it work the way it does? You get the point, hopefully. Get curious and ask questions. Don't just copy & paste solutions and answers from LLMs without understanding why those solutions work. One of your values (whether you are an employee or employer) is your knowledge in your field. Why We don't call it knowledge work for no reason.
 3. **Social/Emotional Intelligence**: How great are you at talking? Seriously, can your words convince/compel people? Do you listen to understand and then to be understood or is it the other way around? To get a job/position/promotion, it's more important who you know than what you know. Don't just grind code and learn technology. Hang out with people. Say hi! Ask how they're doing? Don't just do it to get something. Mean it! This is something that I'm very guilty of. I've spent the past year just hammering in and learning different technologies and tools to the detriment of my social skills. I can defiantly improve my social skills by putting myself out there.
 
