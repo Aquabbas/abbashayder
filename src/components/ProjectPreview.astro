@@ -7,7 +7,7 @@ import ArrowRight from '../icons/ArrowRight.astro';
 type Props = { project: CollectionEntry<'projects'>; class?: string; headingLevel?: 'h2' | 'h3' };
 
 const { project, class: className, headingLevel = 'h2' } = Astro.props;
-const { title, description } = project.data;
+const { title, description, image } = project.data;
 const TitleTag = headingLevel;
 ---
 
@@ -23,4 +23,5 @@ const TitleTag = headingLevel;
     <div class="hidden font-serif italic opacity-0 transition group-hover:opacity-100 sm:inline-flex sm:gap-1 sm:items-center sm:shrink-0">
         View Project <ArrowRight class="fill-current w-4 h-4" />
     </div>
+    {image && <img src={image.src} alt={image.alt || ''} class="hidden sm:block w-24 h-24 object-cover rounded shrink-0" />}
 </a>
