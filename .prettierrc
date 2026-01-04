@@ -1,15 +1,15 @@
 {
-    "printWidth": 160,
-    "singleQuote": true,
-    "trailingComma": "none",
-    "tabWidth": 4,
-    "plugins": ["prettier-plugin-astro"],
-    "overrides": [
-        {
-            "files": ["*.md", "*.mdx", "*.yaml"],
-            "options": {
-                "tabWidth": 2
-            }
-        }
-    ]
+  "printWidth": 160,
+  "singleQuote": true,
+  "trailingComma": "none",
+  "tabWidth": 2,
+  "plugins": ["prettier-plugin-astro"],
+  "overrides": [
+    {
+      "files": ["*.md", "*.mdx", "*.yaml"],
+      "options": {
+        "tabWidth": 2
+      }
+    }
+  ]
 }
