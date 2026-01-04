@@ -6,12 +6,12 @@ tags: []
 
 # My Personal Website
 
-This is my personal website hosted on `Vercel`, where I write about tech, health,
+This is my personal website hosted on [Vercel](https://vercel.com), where I write about tech, health,
 and things I learn along the way.
 
 ---
 
-## Project Struture
+## Project Structure
 
 ```text
 ├── public/
