@@ -222,10 +222,11 @@ Mobile-first with `sm:` breakpoint:
 
 ### Blog Post - File Naming
 
-- **Content:** Date-prefixed for filesystem organization (e.g., `2025-02-02-post-title.md`)
+- **Filename:** Date-prefixed for filesystem organization (e.g., `2025-02-02-post-title.md`)
 - **Slug:** Add `slug` in frontmatter for clean URLs (e.g., `slug: post-title`)
-- **Images:** `{date}-{post-slug}-image-{n}.jpeg` (e.g., `2025-02-02-you-are-not-paid-to-write-code-image-1.jpeg`)
 - **Result:** File sorts chronologically in editor, URL stays clean (`/blog/post-title/`)
+- **Images:** `{date}-{post-slug}.jpeg` (e.g., `2025-02-02-you-are-not-paid-to-write-code.jpeg`)
+- **Multiple images:** `{date}-{post-slug}-1.jpeg`, `{date}-{post-slug}-2.jpeg`, etc.
 
 ### Project File Naming
 
