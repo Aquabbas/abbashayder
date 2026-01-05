@@ -13,7 +13,7 @@ seo:
     alt: AquaVim preview
 ---
 
-![AquaVim preview](/project-1-aquavim.png)
+![AquaVim preview](/aquavim-image-1.png)
 
 A NeoVim configuration built on <a href="https://www.lazyvim.org/" target="_blank" rel="noopener noreferrer">LazyVim</a> for developers who want a functional IDE-like setup without configuring LSPs, linters, and formatters from scratch.
 
