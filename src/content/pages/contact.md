@@ -5,10 +5,8 @@ seo:
   description: Get in touch through email or social media! Let me know how I can help.
 ---
 
-I am currently not actively looking for new opportunities, but my inbox is always
-open. Whether you have a question or just want to say hi, I'll try my best to get
-back to you!
+Whether you're working on something interesting, wanna chat about software development, or just want to say hi, I'd love to hear from you.
 
-[GitHub](https://github.com/Aquabbas)
+My current preferred contact method is <a href="https://www.linkedin.com/in/abbas-hayder" target="_blank" rel="noopener noreferrer">LinkedIn</a>. I typically respond within a week.
 
-[LinkedIn](https://www.linkedin.com/in/abbas-hayder/)
+You can also find me on <a href="https://github.com/Aquabbas" target="_blank" rel="noopener noreferrer">GitHub</a>.

@@ -39,7 +39,7 @@ export type SiteConfig = {
 
 const siteConfig: SiteConfig = {
     title: 'Abbas Hayder',
-    subtitle: 'Product Developer | GNU/Linux Enthusiast | Avid Runner',
+    // subtitle: 'Product Developer | GNU/Linux Enthusiast | Avid Runner',
     description: 'Blog and Portfolio by Abbas Hayder',
     // image: {
     //     src: '/dante-preview.jpg',
@@ -55,18 +55,18 @@ const siteConfig: SiteConfig = {
             href: '/projects'
         },
         {
-            text: 'Blog',
+            text: 'Writing',
             href: '/blog'
         },
         {
-            text: 'Tags',
-            href: '/tags'
+            text: 'About',
+            href: '/about'
         }
     ],
     footerNavLinks: [
         {
-            text: 'About',
-            href: '/about'
+            text: 'Tags',
+            href: '/tags'
         },
         {
             text: 'Contact',
@@ -84,11 +84,15 @@ const siteConfig: SiteConfig = {
         }
     ],
     hero: {
-        title: '',
-        text: "Hello/ᚺᛖᛚᛚᛟ/مرحبًا, \n\nThank you for visiting my website! I'm a software engineer specializing in FinTech and PropTech. Currently supporting and maintaining a Property Management SaaS platform at [Odevo](https://odevo.com/). \n\nIn my free time, I enjoy learning about different tools and systems, as well as [building my own](). This site is a dedicated space to publish my work on technology, business, economics, languages and the world. I hope you find some use of my material :)",
+        // title: 'Hello & welcome to my little corner of the internet.',
+        text: '\n\nI\'m a FinTech Software Engineer currently working at <a href="https://odevo.com/" target="_blank" rel="noopener noreferrer">Odevo</a>, where I help build and maintain a SaaS platform for property managers. Here, I write about Software and Product Development, among other topics. I also do long distance running in nature reserves and practice ring gymnastics.',
         // image: {
         //     src: '/hero.jpeg',
         //     alt: 'A person sitting at a desk in front of a computer'
+        // },
+        // image: {
+        //     src: '/home.jpeg',
+        //     alt: 'At Home'
         // },
         actions: [
             {

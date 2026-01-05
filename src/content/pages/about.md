@@ -1,98 +1,64 @@
 ---
-title: About
+title: About Me
 seo:
   title: About Me
   description: Learn more about the person behind the website.
   image:
-    src: '/about.jpeg'
-    alt: Me at the beach
+    src: '/about-1.jpeg'
+    alt: Abbas Hayder
 ---
 
-![Me at the beach](/about.jpeg)
+Hi, I'm Abbas, and I'm a Software Engineer based in Stockholm, Sweden.
 
-## Who am I?
+![Abbas Hayder](/about-1.jpeg)
 
-Hi! My name is Abbas. I love learning and building tools that I would like to use.
-My favorite food is Mediterranean and Middle Eastern. I love the color blue, and
-I drink immense amounts of water, which is how I got my `Aqua/Aquabbas` nickname
-from friends in university.
+As a kid, I used to hang out with my grandparents on their farm, which influenced my love for nature immensely. Besides nature, I love running. My love for running and staying active started long before my career in tech. Back in 2011, I discovered <a href="https://www.youtube.com/watch?v=PF5yTLzWyBU" target="_blank" rel="noopener noreferrer">Scooby1961</a> on YouTube, who's like a modern-day <a href="https://en.wikipedia.org/wiki/Fred_Rogers" target="_blank" rel="noopener noreferrer">Mister Rogers</a>. His videos shaped how I think about nutrition and working out.
 
-As a kid, I used to hang out with my grandparents on their farm, which influenced
-my love for nature immensely. Besides nature, I love running, and gymnastic rings.
-I find joy in working with tools like [NeoVim](https://neovim.io), and I'm really
-interested in exploring and learning about [GNU](https://www.gnu.org/home.en.html)/
-[Linux](https://www.linux.org/pages/download), servers, and other nerdy stuff.
+![Stockholm Marathon 2016](/about-2.jpeg)
 
-## Values
+<p style="text-align: center; font-size: small;">
+  My first Marathon -
+  <a href="https://registration.marathongruppen.se/PersonResultPopup.aspx?History=1&RegistrationResultId=1260777" target="_blank" rel="noopener noreferrer">
+    Stockholm Marathon 2016
+  </a>
+</p>
 
-1. Knowledge and understanding > copy-paste solutions.
-2. People, kindness, and autonomy > processes and ceremonies.
-3. Quality work > quantity work.
+In 2021, I got bored with traditional weight training and stumbled upon gymnastic rings. They just looked more fun to train with, and I've been hooked ever since.
 
-## Learning Journey
+![Ring gymnastics](/about-3.jpg)
 
-- **2024**:
-  - [x] learned to use NeoVim as my [main personal integrated environment]()
-  - [x] Transitioned to GNU/Linux as my [main operating system]()
-  - [x] Focused on [product development for property managers](https://odevo.com)
-- This year (**2025**):
-  - [ ] Learning to use [Laravel](https://laravel.com) in a production environment
-  - [ ] bare-metal self-hosting, and setting up a homelab using:
-    - [ ] [NixOS](https://nixos.org)
-    - [ ] [k3s](https://github.com/k3s-io/k3s)
-    - [ ] Implementing [GitOps](https://www.redhat.com/en/topics/devops/what-is-gitops)
-          using [Flux](https://github.com/fluxcd/flux2)
-- Next year (**2026**):
-  - [ ] I'm interested in learning a new language. Perhaps [Elixir](https://elixir-lang.org)
-        and [Phoenix LiveView](https://hexdocs.pm/phoenix_live_view/Phoenix.LiveView.html)
-  - [ ] I would also like to dip my toes into launching SaaS applications specialized
-        in health/fitness (V1 will be mainly for me)
+<p style="text-align: center; font-size: small;">
+  Pull-ups -
+  <a href="https://en.wikipedia.org/wiki/Rings_(gymnastics)" target="_blank" rel="noopener noreferrer">
+    Gymnastic Rings
+  </a>
+</p>
 
-_Essentially, I am interested in systems that are **scalable**, **fault-tolerant**,
-simple to maintain, and that facilitate collaboration with other developers._
+I've always been a tinkerer, with a huge urge to stray from the traditional way of doing things and explore other (potentially better) paths.
 
-## Tech Stack
+This really kicked into gear when my 2017 MacBook Pro began to struggle. The 8GB of RAM just couldn't handle resource-hungry apps like VS Code, and the constant heat and fan noise became a major point of frustration. This pushed me to find more efficient tools.
 
-Currently, I specialize mostly in back-end development, with a touch of front-end.
-Here are the tools I currently use:
+I decided to finally learn <a href="https://www.lazyvim.org/" target="_blank" rel="noopener noreferrer">NeoVim</a>, an editor I had avoided since a memorable university class where I got stuck in it and had to close the whole terminal to exit. A couple of years later, I discovered developers on YouTube like <a href="https://www.youtube.com/watch?v=zHTeCSVAFNY&list=PLsz00TDipIffreIaUNk64KxTIkQaGguqn" target="_blank" rel="noopener noreferrer">TypeCraft</a> and <a href="https://www.youtube.com/watch?v=DzNmUNvnB04" target="_blank" rel="noopener noreferrer">Dreams of Code</a> who gave me the courage to try it again.
 
----
+This experience completely changed the way I interact with my computer. It led me to discover so much cool software like <a href="https://github.com/tmux/tmux/wiki" target="_blank" rel="noopener noreferrer">tmux</a>, which has become essential to my development workflow.
 
-- Tech I use at _[Odevo](https://odevo.com)_:
+My curiosity didn't stop at software. Frustrated by Apple's high prices, I switched to a System76 <a href="https://system76.com/laptops/lemp13/configure" target="_blank" rel="noopener noreferrer">Lemur Pro</a> to get more familiar with GNU/Linux.
 
-  - Programming Languages:
-    - **PHP** | **TypeScript**/**JavaScript** | **HTML** | **CSS**
-  - Frameworks & Libraries:
-    - **Slim (PHP Framework)** | **Angular** | **TailwindCSS**
-  - Runtime Environments & Bundlers:
-    - **node.js**
-  - Databases:
-    - **MySQL**
-  - DevOps Tools:
-    - **Docker** | **Git** | **GitHub Actions**
-  - Operating Systems:
-    - **MacOS** | **Ubuntu Server**
+A year later, when I started getting wrist pain, I invested in a <a href="https://www.zsa.io/voyager" target="_blank" rel="noopener noreferrer">ZSA Voyager</a> split keyboard. It's been one of the best purchases I've ever made - it resolved the wrist pain and introduced me to <a href="https://en.wikipedia.org/wiki/Touch_typing" target="_blank" rel="noopener noreferrer">touch typing</a> and <a href="https://www.youtube.com/watch?v=sLWQ4Gx88h4" target="_blank" rel="noopener noreferrer">home row mods</a>.
+
+![Current Dev Setup in 2025](/about-4.jpg)
+
+<p style="text-align: center; font-size: small;">
+  My 2025 Dev Setup -
+  <a href="https://configure.zsa.io/voyager/layouts/d5oRX/eaBVqm/0" target="_blank" rel="noopener noreferrer">
+    ZSA Voyager
+  </a>
+</p>
 
 ---
 
-- Other tech I use in my _[sideprojects](https://github.com/Aquabbas?tab=repositories)_:
+These days, I'm exploring GNU/Linux systems, self-hosting, and building efficient development workflows.
 
-  - Programming Languages:
-    - **Lua**
-  - Frameworks & Libraries:
-    - **Laravel** | **Astro** | **Three.js**
-  - Runtime Environments & Bundlers:
-    - **Vite**
-  - Databases:
-    - **PostgreSQL**
-  - DevOps Tools:
-    - **Vercel** | **Kubernetes (k3s)** | **Flux CD**
-  - Operating Systems:
-    - **Pop!\_OS** | **NixOS**
+Here, I write about software and product development, lessons learned, and occasionally other topics that interest me.
 
----
-
-## Get in Touch
-
-Feel free to say hi on [LinkedIn](https://www.linkedin.com/in/abbas-hayder), if
-you find me or what I write about interesting.
+Feel free to say hi on <a href="https://www.linkedin.com/in/abbas-hayder" target="_blank" rel="noopener noreferrer">LinkedIn</a> or follow me on <a href="https://github.com/Aquabbas" target="_blank" rel="noopener noreferrer">GitHub</a>.
